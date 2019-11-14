@@ -57,6 +57,8 @@ module Download_data
         case countryCode
           when "AR"
             return "Argentina"
+          when "AR"
+            return "Bolivia"
           when "Chile"
             return "Chile"
           when "GT"
