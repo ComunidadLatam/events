@@ -1,0 +1,8 @@
+url: https://gdglatam.dev
+title: GDG Latam
+theme: minima
+
+events:
+  enabled: true
+  label: Proximos Eventos
+
