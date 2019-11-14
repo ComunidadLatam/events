@@ -41,6 +41,41 @@
     "country": "Argentina"
   },
   {
+    "name": "GDG Android Bolivia",
+    "url": "https://www.meetup.com/GDGAndroidBolivia/",
+    "country": "Bolivia"
+  }, 
+  {
+    "name": "GDG Cloud La Paz",
+    "url": "https://www.meetup.com/GDG-Cloud-La-Paz/",
+    "country": "Bolivia"
+  }, 
+  {
+    "name": "GDG Cochabamba",
+    "url": "https://www.meetup.com/GDGCochabamba/",
+    "country": "Bolivia"
+  },
+  {
+    "name": "GDG La Paz",
+    "url": "https://www.meetup.com/GDG-La-Paz/",
+    "country": "Bolivia"
+  },
+  {
+    "name": "GDG Santa Cruz",
+    "url": "https://www.meetup.com/GDG-Santa-Cruz/",
+    "country": "Bolivia"
+  },
+  {
+    "name": "GDG Sucre",
+    "url": "https://www.meetup.com/GDG-Sucre/",
+    "country": "Bolivia"
+  },
+  {
+    "name": "GDG Arica",
+    "url": "https://www.meetup.com/gdgarica/",
+    "country": "Chile"
+  }, 
+  {
     "name": "GDG Cloud Santiago",
     "url": "https://www.meetup.com/gdgcloudscl/",
     "country": "Chile"
@@ -72,8 +107,23 @@
     "country": "México"
   },
   {
+    "name": "GDG Arequipa",
+    "url": "https://www.meetup.com/GDG-Arequipa/",
+    "country": "Perú"
+  },
+  {
     "name": "GDG Chimbote",
     "url": "https://www.meetup.com/GDGChimbote/",
+    "country": "Perú"
+  },
+  {
+    "name": "GDG Chiclayo",
+    "url": "https://www.meetup.com/GDG-Chiclayo",
+    "country": "Perú"
+  },
+  {
+    "name": "GDG Cloud Lima",
+    "url": "https://www.meetup.com/Google-Cloud-Developer-Community-Lima/",
     "country": "Perú"
   },
   {
