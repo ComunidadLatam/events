@@ -6,6 +6,16 @@
     "country": "Argentina"
   },
   {
+    "name": "GDG Córdoba, Argentina",
+    "url": "https://www.meetup.com/GDG-CORDOBA-AR/",
+    "country": "Argentina"
+  },  
+  {
+    "name": "GDG Formosa",
+    "url": "https://www.meetup.com/GDG-Formosa",
+    "country": "Argentina"
+  },  
+  {
     "name": "GDG Neuquén",
     "url": "https://www.meetup.com/gdgneuquen/",
     "country": "Argentina"
@@ -13,6 +23,11 @@
   {
     "name": "GDG Ramos Mejía",
     "url": "https://www.meetup.com/GDG-Ramos-Mejia/",
+    "country": "Argentina"
+  },
+    {
+    "name": "GDG Santa Fe",
+    "url": "https://www.meetup.com/GDGSantaFe/",
     "country": "Argentina"
   },
   {
@@ -29,17 +44,7 @@
     "name": "GDG Cloud Santiago",
     "url": "https://www.meetup.com/gdgcloudscl/",
     "country": "Chile"
-  },
-  {
-    "name": "GDG Córdoba, Argentina",
-    "url": "https://www.meetup.com/GDG-CORDOBA-AR/",
-    "country": "Chile"
-  },   
-  {
-    "name": "GDG Santiago de Chile",
-    "url": "https://www.meetup.com/GDGSantaFe/",
-    "country": "Chile"
-  },
+  }, 
   {
     "name": "GDG Santiago de Chile",
     "url": "https://www.meetup.com/gdg-santiago-chile/",
