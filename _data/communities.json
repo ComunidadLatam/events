@@ -1,7 +1,28 @@
 [
+
+  {
+    "name": "GDG Buenos Aires",
+    "url": "https://www.meetup.com/gdgbsas/",
+    "country": "Argentina"
+  },
   {
     "name": "GDG Neuquén",
     "url": "https://www.meetup.com/gdgneuquen/",
+    "country": "Argentina"
+  },
+  {
+    "name": "GDG Ramos Mejía",
+    "url": "https://www.meetup.com/GDG-Ramos-Mejia/",
+    "country": "Argentina"
+  },
+  {
+    "name": "GDG & WTM Río de La Plata",
+    "url": "https://www.meetup.com/gdg-wtm/",
+    "country": "Argentina"
+  },  
+  {
+    "name": "Google Cloud Developer Community Buenos Aires",
+    "url": "https://www.meetup.com/Google-Cloud-Developer-Community-Buenos-Aires/",
     "country": "Argentina"
   },
   {
