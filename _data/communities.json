@@ -218,5 +218,10 @@
       "name":"GDG Táchira",
       "url":"https://www.meetup.com/GDG-Tachira/",
       "country":"Venezuela"
+   },
+   {
+      "name": "GDG Guadalajara Android",
+      "url": "https://www.meetup.com/es/GDG-GDL-Android/",
+      "country": "Mexico"
    }
 ]
