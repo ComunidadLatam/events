@@ -134,9 +134,15 @@
       "url":"https://www.meetup.com/gdg-cloud-tgu/",
       "country":"Honduras"
    },
+   
    {
       "name":"GDG Hermosillo",
       "url":"https://www.meetup.com/GDG-Hermosillo",
+      "country":"México"
+   },
+   {
+      "name":"GDG IPN",
+      "url":"https://www.meetup.com/GDG-IPN/",
       "country":"México"
    },
    {
